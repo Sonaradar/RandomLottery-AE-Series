@@ -1,6 +1,7 @@
 # RandomLottery-AE-Series
 
-©2014-2020 Sonaradar Private Inc.All rights reserved.
+
+© 2014-2020 Sonaradar Private Inc.All rights reserved.
 
 为保证软件公平,允许检查工程.
 
